@@ -1,0 +1,10 @@
+= Notes
+
+
+== AWS Organizations
+
+https://docs.aws.amazon.com/organizations/latest/userguide/orgs_introduction.html
+
+=== Benefits
+
+* Consolidated billing
